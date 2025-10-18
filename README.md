@@ -24,3 +24,6 @@ Built with **Next.js, React.js, and WebSockets**, SyncStream delivers seamless g
 
 ## ⚙️ Live Link 
 ```bash
+cheeky-ten.vercel.app
+```
+### Author : Jyoti Ranjan Dash
