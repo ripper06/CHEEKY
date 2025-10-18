@@ -16,14 +16,13 @@ Built with **Next.js, React.js, and WebSockets**, SyncStream delivers seamless g
 
 ## 🛠️ Tech Stack  
 - **Frontend:** Next.js, React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
+- **Backend:** Next.js  
 - **Communication:** Socket.IO (WebSockets)  
 - **API:** YouTube Data API  
 
 ---
 
-## ⚙️ Live Link 
-```bash
-cheeky-ten.vercel.app
-```
+## 🔗 Live Demo  
+👉 [Watch Live Here](https://cheeky-ten.vercel.app)
+
 ### Author : Jyoti Ranjan Dash
