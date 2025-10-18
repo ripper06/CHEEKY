@@ -1,4 +1,4 @@
-# 🎬 SyncStream  
+# 🎬 CHEEKY
 
 A real-time video streaming platform that lets multiple users **watch YouTube videos together** in sync.  
 Built with **Next.js, React.js, and WebSockets**, SyncStream delivers seamless group watching with live chat and instant playback synchronization.
